@@ -1,12 +1,12 @@
 <!-- TITLE/ -->
-# setup-test
+# @dword-design/setup-test
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
   <p>
-    <a href="https://npmjs.org/package/setup-test">
+    <a href="https://npmjs.org/package/@dword-design/setup-test">
       <img
-        src="https://img.shields.io/npm/v/setup-test.svg"
+        src="https://img.shields.io/npm/v/@dword-design/setup-test.svg"
         alt="npm version"
       >
     </a><img src="https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue" alt="Linux macOS Windows compatible"><a href="https://github.com/dword-design/setup-test/actions">
@@ -58,10 +58,10 @@
 
 ```bash
 # npm
-$ npm install setup-test
+$ npm install @dword-design/setup-test
 
 # Yarn
-$ yarn add setup-test
+$ yarn add @dword-design/setup-test
 ```
 <!-- /INSTALL -->
 
