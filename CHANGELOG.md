@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/setup-test/compare/v1.0.0...v1.0.1) (2022-12-03)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#1](https://github.com/dword-design/setup-test/issues/1)) ([f229bb0](https://github.com/dword-design/setup-test/commit/f229bb0b745fbc540d1470d8f3bd94df5a9d1c84))
+
 # 1.0.0 (2022-11-03)
 
 
