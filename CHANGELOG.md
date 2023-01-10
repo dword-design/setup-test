@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/dword-design/setup-test/compare/v1.0.1...v1.0.2) (2023-01-10)
+
+
+### Bug Fixes
+
+* go back to cjs ([e81f09e](https://github.com/dword-design/setup-test/commit/e81f09e51bf517fcee33452e9df2a889372a0776))
+* lock file maintenance ([#6](https://github.com/dword-design/setup-test/issues/6)) ([f1c78ec](https://github.com/dword-design/setup-test/commit/f1c78ecd30e95f85dbd2a9a53c74f50947cc2126))
+
 ## [1.0.1](https://github.com/dword-design/setup-test/compare/v1.0.0...v1.0.1) (2022-12-03)
 
 
