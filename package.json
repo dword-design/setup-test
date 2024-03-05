@@ -20,7 +20,7 @@
     "test": "base test"
   },
   "devDependencies": {
-    "@dword-design/base": "^9.1.4"
+    "@dword-design/base": "^11.0.0"
   },
   "engines": {
     "node": ">=14"
